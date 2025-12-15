@@ -1,8 +1,5 @@
 myenv/
 __pycache__/
-*.pyc
+.env
 *.tflite
 *.h5
-*.jpg
-*.png
-.env
