@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 *.tflite
 *.h5
-*.zip
 *.jpg
 *.png
 .env
